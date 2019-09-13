@@ -49,7 +49,7 @@ end
 
 speakers_list = ["Ram", "Nana", "Liz", "An", "Hachi", "Kali", "Nadi"]
 
-batch_badge_creator(speakers_list)
+puts batch_badge_creator(speakers_list)
 assign_rooms(speakers_list)
 
 #printer(speakers_list)
