@@ -25,7 +25,13 @@ def assign_rooms(speakers)
   
   room_assignment_array = []
   
+  speakers.each do |speaker|
+    
+    
+    
+  end
   
+  room_assignment_array
   
 end
 
