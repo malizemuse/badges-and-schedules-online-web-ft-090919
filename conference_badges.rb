@@ -47,10 +47,10 @@ end
 
 # Test Code
 
-=begin
-
 speakers_list = ["Ram", "Nana", "Liz", "An", "Hachi", "Kali", "Nadi"]
-printer(speakers_list)
 
-=end
+batch_badge_creator(speakers_list)
+room_assignment_array(speakers_list)
+
+#printer(speakers_list)
 
