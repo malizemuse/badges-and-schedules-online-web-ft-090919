@@ -49,7 +49,7 @@ end
 
 speakers_list = ["Ram", "Nana", "Liz"]
 
-batch_badge_creator(speakers_list)
+puts batch_badge_creator(speakers_list)
 
 
 
