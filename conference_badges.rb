@@ -24,7 +24,7 @@ end
 def assign_rooms(speakers)
   
   room_assignment_array = []
-  rooms_nums = [1,2,3,4,5,6,7]
+ 
   
   
   
