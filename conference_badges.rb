@@ -47,6 +47,8 @@ end
 
 # Test Code
 
+speakers_list = ["Ram", "Nana", "Liz"]
+
 
 
 
