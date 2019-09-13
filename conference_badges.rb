@@ -25,9 +25,13 @@ def assign_rooms(speakers)
   
   room_assignment_array = []
   
-  speakers.each do |speaker|
+  room_num = 1
+  
+  7.times do |speaker|
     
     <<
+    
+    room_num += 1
     
   end
   
