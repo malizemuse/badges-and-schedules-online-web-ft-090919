@@ -39,7 +39,7 @@ end
 # Method that outputs results of batch_badge_creator then assign_rooms
 def printer(array)
   
-  puts batch_badge_creator(array)
+  puts batch_makerr(array)
   puts assign_rooms(array)
   
 end
