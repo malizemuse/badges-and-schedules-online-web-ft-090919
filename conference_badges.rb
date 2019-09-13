@@ -25,7 +25,7 @@ def assign_rooms(speakers)
   
   room_assignment_array = []
  
- speakers.each_with_index {
+ speakers.each_with_index { |speaker, room_num|
    
    
    
