@@ -47,9 +47,9 @@ end
 
 # Test Code
 
-=begin
+#=begin
 speakers_list = ["Ram", "Nana", "Liz"]
 
 printer(speakers_list)
-=end
+#=end
 
