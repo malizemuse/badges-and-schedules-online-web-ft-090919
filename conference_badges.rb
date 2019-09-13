@@ -53,3 +53,4 @@ batch_badge_creator(speakers_list)
 
 
 
+
