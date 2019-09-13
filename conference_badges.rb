@@ -53,11 +53,3 @@ def printer(array)
 end
 
 
-# Test Code
-
-=begin
-speakers_list = ["Ram", "Nana", "Liz", "An", "Hachi", "Kali", "Nadi"]
-
-printer(speakers_list)
-=end
-
