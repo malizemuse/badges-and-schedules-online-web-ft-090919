@@ -51,6 +51,6 @@ speakers_list = ["Ram", "Nana", "Liz"]
 
 puts batch_badge_creator(speakers_list)
 
-
+puts 
 
 
