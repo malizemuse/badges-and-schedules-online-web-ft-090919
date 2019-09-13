@@ -21,5 +21,9 @@ end
 
 
 #
-def assign_rooms(speakers_array)
+def assign_rooms(speakers)
+  
+  
+  
+end
 
