@@ -20,7 +20,7 @@ def batch_badge_creator(array)
 end
 
 
-#
+# Method that assignes each speaker to a room
 def assign_rooms(speakers)
   
   
