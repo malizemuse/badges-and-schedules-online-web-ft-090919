@@ -50,7 +50,6 @@ def printer(array)
     puts room
   }
   
-  
 end
 
 
