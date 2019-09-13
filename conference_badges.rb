@@ -57,8 +57,5 @@ end
 
 speakers_list = ["Ram", "Nana", "Liz", "An", "Hachi", "Kali", "Nadi"]
 
-puts batch_badge_creator(speakers_list)
-puts assign_rooms(speakers_list)
-
-#printer(speakers_list)
+printer(speakers_list)
 
