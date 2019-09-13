@@ -15,7 +15,7 @@ def batch_badge_creator(array)
     badge_array << badge_maker(badge)
   end
   
-  badge_array
+  badge_array.inspect
   
 end
 
